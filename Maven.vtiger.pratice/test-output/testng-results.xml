@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-23T14:54:02 IST" name="Default suite" finished-at="2022-03-23T14:54:02 IST" duration-ms="89">
+  <suite started-at="2022-03-28T17:24:12 IST" name="Default suite" finished-at="2022-03-28T17:24:26 IST" duration-ms="14046">
     <groups>
     </groups>
-    <test started-at="2022-03-23T14:54:02 IST" name="Default test" finished-at="2022-03-23T14:54:02 IST" duration-ms="89">
-      <class name="Maven.vtiger.ParameterTest">
-        <test-method signature="getData()[pri:0, instance:Maven.vtiger.ParameterTest@741a8937]" started-at="2022-03-23T14:54:02 IST" name="getData" finished-at="2022-03-23T14:54:02 IST" duration-ms="14" status="PASS">
+    <test started-at="2022-03-28T17:24:12 IST" name="Default test" finished-at="2022-03-28T17:24:26 IST" duration-ms="14046">
+      <class name="Maven.vtiger.LoginTest">
+        <test-method signature="logInToApp()[pri:0, instance:Maven.vtiger.LoginTest@3cebbb30]" started-at="2022-03-28T17:24:12 IST" name="logInToApp" finished-at="2022-03-28T17:24:26 IST" duration-ms="13975" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getData -->
-      </class> <!-- Maven.vtiger.ParameterTest -->
+        </test-method> <!-- logInToApp -->
+      </class> <!-- Maven.vtiger.LoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
